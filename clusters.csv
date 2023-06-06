@@ -1,0 +1,119 @@
+,Article,Cluster
+80,Neural networks and physical systems with emergent collective computational abilities pdf,0
+14,A Survey on the Explainability of Supervised Machine Learning pdf,0
+20,AutoML A survey of the state of the art pdf,0
+48,From Anecdotal Evidence to Quantitative Evaluation Methods A Systematic Review on Evaluating Explainable AI pdf,0
+6,A quantitative evaluation of explainable AI methods using the depth of decision tree pdf,0
+94,Quantitative Evaluation of Machine Learning Explanations A Human Grounded Benchmark pdf,0
+45,Explainable Deep Learning  A Field Guide for the Uninitiated pdf,0
+49,General tensor decomposition  moment matrices and applications pdf,1
+47,First draft of a report on the EDVAC pdf,1
+84,Neural Turing Machines pdf,1
+44,Evolving Neural Turing Machines for Reward based Learning pdf,1
+86,On Computable Numbers  with an Application to the Entscheidungsproblem pdf,1
+88,One shot priuning of RNNs by Jacobian Spectrum Evaluation pdf,1
+39,EIE Efficient Inference Engine on Compressed Deep Neural Network pdf,1
+89,One weird trick for parallelizing convolutional neural networks pdf,1
+91,Predicting Parameters in Deep Learning pdf,1
+85,Nonlinear principal component analysis using autoassociative neural networks pdf,1
+50,Generative Adversarial Networks in Computer Vision A Survey and Taxonomy pdf,1
+58,HRank Filter Pruning using High Rank Feature Map pdf,1
+79,Networks of spiking neurons The third generation of neural network models pdf,1
+78,Net Trim Convex Pruning of Deep Neural Networks with Performance Guarantee pdf,1
+77,Natural Language Processing History  Evolution  Application  and Future Work pdf,1
+76,Natural Language Processing A Historical Review pdf,1
+74,Model compression via distillation and quantization pdf,1
+61,Introduction to Tensor Decompositions and their Applications in Machine Learning pdf,1
+73,MobileNets Efficient Convolutional Neural Networks for Mobile Vision Applications pdf,1
+72,Memory augmented recurrent neural networks for de novo drug design pdf,1
+64,Large Scale Adversarial Representation Learning pdf,1
+65,Large Scale GAN Training for High Fidelity Natural Image Synthesis pdf,1
+66,Learning in the machine To share or not to share pdf,1
+67,Lie Access Neural Turing Machine pdf,1
+68,Long Short Term Memory pdf,1
+83,Neural Random Access Machines pdf,1
+69,Measuring the Effects of Data Parallelism on Neural Network Training pdf,1
+35,Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes pdf,1
+33,Deep Residual Learning for Image Recognition pdf,1
+110,The lottery ticket hypothesis finding sparse  trainable neural networks pdf,1
+108,Tensor Decompositions and Applications pdf,1
+13,A Survey on Tensor Techniques and Applications in Machine Learning pdf,1
+8,A Survey of Neural Network Compression pdf,1
+103,Structured Transforms for Small Footprint Deep Learning pdf,1
+7,A Shift Invariant Neural Network for the Lung Field Segmentation in Chest Radiography pdf,1
+93,Quantitative AI Risk Assessments pdf,1
+17,An Analysis of Deep Neural Network Models for Practical Applications pdf,1
+102,Speed accuracy trade offs for modern convolutional object detectors pdf,1
+19,Attention Is All You Need pdf,1
+101,Sparse networks from scratch Faster training without losing performance pdf,1
+22,Binaryconnect Training deep neural networks with binary weights during propagations pdf,1
+112,The Unreasonable effctiveness of data pdf,1
+24,Can programming be liberated from the von Neumann style A functional style and its algebra of programs pdf,1
+99,Self organized formation of topologically correct feature maps pdf,1
+4,A Novel Connectionist System for Unconstrained Handwriting Recognition pdf,1
+3,A New Golden Age for Computer Architecture pdf,1
+2,A Logical Calculus of Ideas Immanent in Nervous Activity pdf,1
+96,Reinforcement Learning Neural Turing Machines   Revised pdf,1
+95,Quantized Convolutional Neural Networks for Mobile Devices pdf,1
+30,Computer Architecture A Quantitative Approach  th edition pdf,1
+115,Transformer XL Attentive Language Models Beyond a Fixed Length Context pdf,1
+31,Conceptual Dependency Theory pdf,1
+9,A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments pdf,1
+111,The role of artificial intelligence in achieving the pdf,1
+82,Neural Parameter Allocation Search Saenko pdf,2
+104,StudioGAN A Taxonomy and Benchmark of GANs for Image Synthesis pdf,2
+81,Neural Parameter Allocation Search Saenko versione pi  recente leggermente diversa pdf,2
+100,SpanBERT Improving Pre training by Representing and Predicting Spans pdf,2
+98,RoBERTa A Robustly Optimized BERT Pretraining Approach pdf,2
+97,Revealing the Dark Secrets of BERT pdf,2
+87,On the Dangers of Stochastic Parrots Can Language Models Be Too Big pdf,2
+90,Position Masking for Language Models pdf,2
+75,Multi node Bert pretraining Cost efficient Approach pdf,2
+71,Megatron LM Training Multi Billion Parameter Language Models Using Model Parallelism pdf,2
+117,XLNet Generalized Autoregressive Pretraining for Language Understanding pdf,2
+63,Knowledge Distillation A Survey pdf,2
+16,ALBERT A Lite BERT for Self supervised Learning of Language Representations pdf,2
+29,ClinicalBERT Modeling Clinical Notes and Predicting Hospital Readmission pdf,2
+34,DistilBERT  a distilled version of BERT smaller  faster  cheaper and lighter pdf,2
+36,EarlyBERT Efficient BERT Training via Early bird Lottery Tickets pdf,2
+37,Efficient Transformer based Large Scale Language Representations using Hardware friendly Block Structured Pruning pdf,2
+38,Efficient Transformers A Survey pdf,2
+12,A Survey on Green Deep Learning pdf,2
+23,BioBERT a pre trained biomedical language representation model for biomedical text mining pdf,2
+10,A Survey on Bias and Fairness in Machine Learning pdf,2
+46,Exploring the Limits of Transfer Learning with a Unified Text to Text Transformer pdf,2
+11,A Survey on Deep Transfer Learning and Beyond pdf,2
+52,Green AI Schwartz  pdf,2
+60,Improving Language Understanding by Generative Pre Training pdf,2
+59,HyperMixer An MLP based Green AI Alternative to Transformers pdf,2
+5,A Primer in BERTology What We Know About How BERT Works pdf,2
+116,Unsupervised Cross lingual Representation Learning at Scale pdf,2
+57,How to Fine Tune BERT for Text Classification pdf,2
+21,BERT Pre training of Deep Bidirectional Transformers for Language Understanding pdf,2
+53,Green AI Schwartz   versione pi  recente leggermente diversa pdf,2
+56,Green Learning Introduction  Examples and Outlook pdf,2
+114,Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning pdf,3
+109,The Carbon Footprint of Machine Learning Training Will Plateau  Then Shrink pdf,3
+113,Towards Sustainable Artificial Intelligence An Overview of Environmental Protection Uses and Issues pdf,3
+106,Sustainable AI AI for sustainability and the sustainability of AI pdf,3
+105,Sustainability challenges of Artificial Intelligence and Policy Implications pdf,3
+15,A Systematic Review of Green AI pdf,3
+1,A Green er  World for A I pdf,3
+18,An empirical study of practitioners  perspectives on green software engineering pdf,3
+107,Sustainable AI Environmental Implications Challenges and Opportunities pdf,3
+32,Data Centric Green AI an exploratory empirical study pdf,3
+26,Carbontracker Tracking and Predicting the Carbon Footprint of Training Deep Learning Models pdf,3
+28,Chasing Carbon The Elusive Environmental Footprint of Computing pdf,3
+70,Measuring the environmental impacts of artificial intelligence compute and applications pdf,3
+92,Quantifying the Carbon Emissions of Machine Learning pdf,3
+40,Energy and Policy Considerations for Deep Learning in NLP pdf,3
+41,Energy and Policy Considerations for Modern Deep Learning Research pdf,3
+42,EnergyVis Interactively Tracking and Exploring Energy Consumption for ML Models pdf,3
+43,Energyware Engineering Techniques and Tools for green software development pdf,3
+51,Green AI Do Deep Learning Frameworks Have Different Costs pdf,3
+55,Green Algorithms Quantifying the carbon footprint of computation pdf,3
+62,Is the future of AI sustainable A case study of the EU pdf,3
+25,Carbon Emissions and Large Neural Network Training pdf,3
+0,A definition of carbon footprint pdf,3
+27,Cellular neural networks theory pdf,4
+54,Green AI tackles effects of AI  ML on climate change pdf,4
