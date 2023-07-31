@@ -273,7 +273,7 @@ net=networkPlot(NetMatrix,
                 edges.min = 0,
                 alpha = 0.5,
                 verbose = TRUE)
-
+# biblioshiny() conceptual structure -> co-occurrence network -> authors keywords 
 
 # 6) File .bib da scaricare da Scopus: 
 # title, abstract, key = {artificial intelligence} AND ethics
